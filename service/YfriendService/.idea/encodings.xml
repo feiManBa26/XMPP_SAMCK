@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/com/jzh/news/control/saveNews.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jzh/news/dao/BaseDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jzh/news/dao/News_contentDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jzh/news/dao/UserDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jzh/news/servlet/DoGetPingLun.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jzh/news/servlet/DoGetUser.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

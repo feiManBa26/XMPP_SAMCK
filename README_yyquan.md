@@ -1,3 +1,4 @@
+#注：借助yyquan项目 即时通信练手 ==========================
 # yyquan
 [![Travis](https://img.shields.io/badge/License-Apache2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![Twitter](https://img.shields.io/badge/Gradle-2.1.0-brightgreen.svg)](https://github.com/jiangzehui/polygonsview)<br>
